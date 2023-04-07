@@ -56,8 +56,23 @@
 # 数据结构与算法
 ## [精选力扣300+道算法题](https://interviewguide.cn/)
 
+## [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 
+算法虐我千百遍，我待算法如初恋
 
+这里的内容是我学习算法过程的一些记录，希望能一直坚持下去。
+
+学习方法
+
+把所有经典算法写一遍
+
+看算法有关源码
+
+加入算法学习社区，相互鼓励学习(加我vx:tiger-ran, 备注入群理由, 拉你入群)
+
+看经典书籍
+
+刷题
 ## [吴师兄学算法](https://www.cxyxiaowu.com/)
 
 ## [LABULADONG 的算法网站](https://labuladong.github.io/algo/)
@@ -89,3 +104,11 @@ PDF版本 ： 代码随想录PDF下载 (opens new window)。
 刷题顺序 ： 左侧菜单栏（如果手机端查看则是在左上角）已经将刷题顺序排好了，按照顺序一道一道刷就可以。
 编程语言：本站统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢这里的每一位贡献者 (opens new window)，如果你也想贡献代码点亮你的头像，点击这里 (opens new window)了解提交代码的方式。
 转载须知 ：以下所有文章皆为我（程序员Carl (opens new window)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+
+# 技术书籍
+## [📚 Computer Science Books 计算机技术类书籍 PDF](github.com/huihut/CS-Books/tree/master)
+
+## [超过1000本的计算机经典书籍分享](https://github.com/forthespada/CS-Books)
+
+## [CS-Book](https://github.com/iamshuaidi/CS-Book)
+计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
